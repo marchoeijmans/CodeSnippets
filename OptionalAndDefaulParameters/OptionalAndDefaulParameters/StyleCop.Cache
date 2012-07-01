@@ -1,0 +1,33 @@
+<stylecopresultscache>
+  <version>11</version>
+  <project key="-746999879">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
+  <sourcecode name="AssemblyInfo.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>03/15/2012 21:17:35</timestamp>
+      <milliseconds>115</milliseconds>
+    </settings>
+    <timestamp>03/15/2012 21:20:02</timestamp>
+    <milliseconds>387</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="Program.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>03/15/2012 21:17:35</timestamp>
+      <milliseconds>115</milliseconds>
+    </settings>
+    <timestamp>03/15/2012 21:20:02</timestamp>
+    <milliseconds>277</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="Email.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>03/15/2012 21:17:35</timestamp>
+      <milliseconds>115</milliseconds>
+    </settings>
+    <timestamp>03/15/2012 21:20:02</timestamp>
+    <milliseconds>168</milliseconds>
+    <violations />
+  </sourcecode>
+</stylecopresultscache>

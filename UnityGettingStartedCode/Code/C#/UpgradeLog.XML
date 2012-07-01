@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="UnityASP">
+</Property><Property Name="Solution File" Value="D:\ProtoTypes\UnityGettingStartedCode\Code\C#\UnityASP.sln">
+</Property><Property Name="User Options File" Value="D:\ProtoTypes\UnityGettingStartedCode\Code\C#\UnityASP.suo">
+</Property><Property Name="Date" Value="vrijdag 20 april 2012">
+</Property><Property Name="Time" Value="12:13">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="UnityASP.sln" Description="File successfully backed up as D:\ProtoTypes\UnityGettingStartedCode\Code\C#\Backup\UnityASP.sln">
+</Event><Event ErrorLevel="0" Project="" Source="UnityASP.suo" Description="File successfully backed up as D:\ProtoTypes\UnityGettingStartedCode\Code\C#\Backup\UnityASP.suo">
+</Event><Event ErrorLevel="0" Project="MyObjects" Source="MyObjects\MyObjects.csproj" Description="Project file successfully backed up as D:\ProtoTypes\UnityGettingStartedCode\Code\C#\Backup\MyObjects\MyObjects.csproj">
+</Event><Event ErrorLevel="0" Project="MyObjects" Source="MyObjects\ILogger.cs" Description="File successfully backed up as D:\ProtoTypes\UnityGettingStartedCode\Code\C#\Backup\MyObjects\ILogger.cs">
+</Event><Event ErrorLevel="0" Project="MyObjects" Source="MyObjects\IMyInterface.cs" Description="File successfully backed up as D:\ProtoTypes\UnityGettingStartedCode\Code\C#\Backup\MyObjects\IMyInterface.cs">
+</Event><Event ErrorLevel="0" Project="MyObjects" Source="MyObjects\MyFastLogger.cs" Description="File successfully backed up as D:\ProtoTypes\UnityGettingStartedCode\Code\C#\Backup\MyObjects\MyFastLogger.cs">
+</Event><Event ErrorLevel="0" Project="MyObjects" Source="MyObjects\MyLogger.cs" Description="File successfully backed up as D:\ProtoTypes\UnityGettingStartedCode\Code\C#\Backup\MyObjects\MyLogger.cs">
+</Event><Event ErrorLevel="0" Project="MyObjects" Source="MyObjects\MyObjectWithInjectedLogger.cs" Description="File successfully backed up as D:\ProtoTypes\UnityGettingStartedCode\Code\C#\Backup\MyObjects\MyObjectWithInjectedLogger.cs">
+</Event><Event ErrorLevel="0" Project="MyObjects" Source="MyObjects\MyOtherObject.cs" Description="File successfully backed up as D:\ProtoTypes\UnityGettingStartedCode\Code\C#\Backup\MyObjects\MyOtherObject.cs">
+</Event><Event ErrorLevel="0" Project="MyObjects" Source="MyObjects\MyRealObject.cs" Description="File successfully backed up as D:\ProtoTypes\UnityGettingStartedCode\Code\C#\Backup\MyObjects\MyRealObject.cs">
+</Event><Event ErrorLevel="0" Project="MyObjects" Source="MyObjects\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\ProtoTypes\UnityGettingStartedCode\Code\C#\Backup\MyObjects\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="1" Project="MyObjects" Source="MyObjects\MyObjects.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="MyObjects" Source="MyObjects\MyObjects.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MyObjects" Source="MyObjects\MyObjects.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="UnityASP.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="UnityASP.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MyObjects" Source="MyObjects\MyObjects.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

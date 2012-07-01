@@ -1,0 +1,5 @@
+D:\ProtoTypes\LinqToXmlExample\LinqToXmlExample\bin\Debug\LinqToXmlExample.exe
+D:\ProtoTypes\LinqToXmlExample\LinqToXmlExample\bin\Debug\LinqToXmlExample.pdb
+D:\ProtoTypes\LinqToXmlExample\LinqToXmlExample\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ProtoTypes\LinqToXmlExample\LinqToXmlExample\obj\x86\Debug\LinqToXmlExample.exe
+D:\ProtoTypes\LinqToXmlExample\LinqToXmlExample\obj\x86\Debug\LinqToXmlExample.pdb

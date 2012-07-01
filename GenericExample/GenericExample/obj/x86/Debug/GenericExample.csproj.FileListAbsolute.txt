@@ -1,0 +1,5 @@
+D:\ProtoTypes\GenericExample\GenericExample\bin\Debug\GenericExample.exe
+D:\ProtoTypes\GenericExample\GenericExample\bin\Debug\GenericExample.pdb
+D:\ProtoTypes\GenericExample\GenericExample\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ProtoTypes\GenericExample\GenericExample\obj\x86\Debug\GenericExample.exe
+D:\ProtoTypes\GenericExample\GenericExample\obj\x86\Debug\GenericExample.pdb

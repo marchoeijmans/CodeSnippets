@@ -1,0 +1,5 @@
+F:\Projects\Articles\UnityGettingStarted\Code\C#\MyObjects\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\Articles\UnityGettingStarted\Code\C#\MyObjects\bin\Debug\MyObjects.dll
+F:\Projects\Articles\UnityGettingStarted\Code\C#\MyObjects\bin\Debug\MyObjects.pdb
+F:\Projects\Articles\UnityGettingStarted\Code\C#\MyObjects\obj\Debug\MyObjects.dll
+F:\Projects\Articles\UnityGettingStarted\Code\C#\MyObjects\obj\Debug\MyObjects.pdb

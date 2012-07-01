@@ -1,0 +1,5 @@
+D:\ProtoTypes\CsvWriter\CsvWriter\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ProtoTypes\CsvWriter\CsvWriter\bin\Debug\CsvWriter.exe
+D:\ProtoTypes\CsvWriter\CsvWriter\bin\Debug\CsvWriter.pdb
+D:\ProtoTypes\CsvWriter\CsvWriter\obj\x86\Debug\CsvWriter.exe
+D:\ProtoTypes\CsvWriter\CsvWriter\obj\x86\Debug\CsvWriter.pdb

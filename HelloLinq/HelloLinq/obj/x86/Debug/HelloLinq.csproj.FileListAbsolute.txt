@@ -1,0 +1,5 @@
+D:\ProtoTypes\HelloLinq\HelloLinq\bin\Debug\HelloLinq.exe
+D:\ProtoTypes\HelloLinq\HelloLinq\bin\Debug\HelloLinq.pdb
+D:\ProtoTypes\HelloLinq\HelloLinq\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ProtoTypes\HelloLinq\HelloLinq\obj\x86\Debug\HelloLinq.exe
+D:\ProtoTypes\HelloLinq\HelloLinq\obj\x86\Debug\HelloLinq.pdb
